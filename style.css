@@ -1,0 +1,50 @@
+body {
+  background-color:#3d405b;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f4f1de
+}
+
+h1{
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+    font-size: small;
+    color: #585a6e;
+}
+
+table {
+            border:none;
+            width: 80%;
+            margin: auto;
+        }
+        td {
+            border:none;
+            padding: 10px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+
+        }
+        .custom-image{
+            background-color: #f2cc8f;
+              border-width: 15px;
+              border-color: #e07a5f;
+              border-style: double;
+        }
+         .nested-table {
+          width: 60%;
+        }
+        .icon-image {
+            width: 30%;
+           border:none;
+
+        }
+        .icon-text {
+            width: 70%;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: large;
+        }
